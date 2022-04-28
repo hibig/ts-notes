@@ -1,0 +1,2 @@
+# ts-notes
+typescript notes
